@@ -43,11 +43,7 @@ Foi utilizado o **Gemini 2.5 Pro** por lidar bem com dados estruturados. Nesta a
 3. O serviço do webhook chama o LLM (Gemini 2.5 Pro) e retorna um JSON com `assunto`, `mensagem` e `assinatura`.
 4. O front valida e exibe a resposta, com opção de copiar o conteúdo.
 
-> Espaço para a imagem do workflow:
-
-```text
-docs/workflow/workflow.png
-```
+![Workflow](https://github.com/SalowQ/first-automation/blob/main/assets/workflow.png?raw=true)
 
 ### Prompt utilizado
 
@@ -160,10 +156,4 @@ Arquivos úteis:
 docs/prints/tela-formulario.png
 docs/prints/resposta-gerada.png
 docs/prints/erro-validacao.png
-```
-
-### Imagem do workflow
-
-```text
-docs/workflow/workflow.png
 ```
