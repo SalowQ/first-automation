@@ -95,7 +95,7 @@ Exemplo de resposta esperada do LLM:
 }
 ```
 
-Validações recomendadas no front:
+Validações existentes no front:
 
 - Verificar presença das três chaves obrigatórias.
 - Validar que `mensagem` não está vazia e possui frases completas.
@@ -115,7 +115,7 @@ Este projeto usa **React + Vite + TypeScript** e **Tailwind CSS**.
   - Exibe estado de carregamento/erro e renderiza `assunto`, `mensagem`, `assinatura` após a resposta.
 - `src/main.tsx`: inicializa a aplicação React e injeta no DOM.
 - `src/index.css` e `tailwind.config.js`: estilização utilitária para prototipagem rápida e visual consistente.
-- Integração: a resposta é validada contra as chaves exigidas e apresentada de forma copiável.
+- Integração: a resposta é validada com as chaves exigidas e apresentada de forma copiável.
 
 ### 10. Instalação e execução
 
