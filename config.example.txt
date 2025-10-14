@@ -1,0 +1,14 @@
+# Configuração do Webhook
+# 
+# 1. Crie um arquivo chamado .env na raiz do projeto
+# 2. Adicione a seguinte linha (substitua pela URL real):
+# 
+VITE_WEBHOOK_URL=https://sua-url-de-webhook-aqui.com/api/webhook
+#
+# 3. Exemplo de URLs válidas:
+# - https://api.exemplo.com/webhook
+# - https://webhook.site/12345678-1234-1234-1234-123456789abc
+# - http://localhost:3000/api/webhook (para testes locais)
+#
+# 4. Após configurar, reinicie o servidor de desenvolvimento:
+# npm run dev
