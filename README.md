@@ -15,7 +15,6 @@
 11. [Benefícios percebidos e desafios enfrentados](#11-benefícios-percebidos-e-desafios-enfrentados)
 12. [Limites éticos e de segurança](#12-limites-éticos-e-de-segurança)
 13. [Prints de funcionamento](#13-prints-de-funcionamento)
-14. [Imagem do workflow](#14-imagem-do-workflow)
 
 ### 1. Contextualização do desafio
 
@@ -156,10 +155,4 @@ Arquivos úteis:
 docs/prints/tela-formulario.png
 docs/prints/resposta-gerada.png
 docs/prints/erro-validacao.png
-```
-
-### 14. Imagem do workflow
-
-```text
-docs/workflow/workflow.png
 ```
