@@ -151,8 +151,5 @@ Arquivos úteis:
 
 ### 13. Prints de funcionamento
 
-```text
-docs/prints/tela-formulario.png
-docs/prints/resposta-gerada.png
-docs/prints/erro-validacao.png
-```
+![Funcionamento do projeto 1](https://github.com/SalowQ/first-automation/blob/main/assets/funcionamento_1.png?raw=true)
+![Funcionamento do projeto 2](https://github.com/SalowQ/first-automation/blob/main/assets/funcionamento_2.png?raw=true)
